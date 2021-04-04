@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">RecyclerView With OnclickListner</string>
+
+    <string-array name="country_name">
+        <item>Afghanistan</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>Myanmar</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Russia</item>
+        <item>Afghanistan</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>Myanmar</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Russia</item>
+        <item>Afghanistan</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>Myanmar</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Russia</item>
+        <item>Afghanistan</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>Myanmar</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Russia</item>
+
+    </string-array>
+
+    <string-array name="country_description">
+        <item>Afghanistan...</item>
+        <item>Bangladesh...</item>
+        <item>Bhutan...</item>
+        <item>China...</item>
+        <item>Germany...</item>
+        <item>India...</item>
+        <item>Myanmar...</item>
+        <item>Nepal...</item>
+        <item>Pakistan...</item>
+        <item>Russia...</item>
+        <item>Afghanistan...</item>
+        <item>Bangladesh...</item>
+        <item>Bhutan...</item>
+        <item>China...</item>
+        <item>Germany...</item>
+        <item>India...</item>
+        <item>Myanmar...</item>
+        <item>Nepal...</item>
+        <item>Pakistan...</item>
+        <item>Russia...</item>
+        <item>Afghanistan...</item>
+        <item>Bangladesh...</item>
+        <item>Bhutan...</item>
+        <item>China...</item>
+        <item>Germany...</item>
+        <item>India...</item>
+        <item>Myanmar...</item>
+        <item>Nepal...</item>
+        <item>Pakistan...</item>
+        <item>Russia...</item>
+        <item>Afghanistan...</item>
+        <item>Bangladesh...</item>
+        <item>Bhutan...</item>
+        <item>China...</item>
+        <item>Germany...</item>
+        <item>India...</item>
+        <item>Myanmar...</item>
+        <item>Nepal...</item>
+        <item>Pakistan...</item>
+        <item>Russia...</item>
+    </string-array>
+
+</resources>
